@@ -1,6 +1,9 @@
 #### # 1. 게임의 소개
  - 제목 : Cross the Street
  - Copy 게임 : 길건너 친구들
+ 
+   <img src="https://t1.daumcdn.net/cfile/tistory/2249FE3454E3777401" width="200" height="200">
+
  - 목적 : 지나다니는 차량을 피해 길을 건너는 게임
  - 방법 : 방향키를 이용해 상하좌우로 이동하며, 지나다니는 차량을 피해 움직인다.
 
@@ -40,7 +43,10 @@
       a. 재시작 버튼 선택 시 : Play State 재시작
       b. 나가기 버튼 선택 시 : 게임 종료
       
-      
+    
+<img src="https://postfiles.pstatic.net/MjAyMDA5MjVfMjA3/MDAxNjAxMDE5ODQzNDQ3.ADAoGMF3rplZVZVY8w6CQ8085AqxA70t9mVAm0uEQjwg.tll8WpYrfXWfWgX2kfsQ4Iyilmhm52hUHngIYZmQdTAg.PNG.hansik0806/Dier.png?type=w773" >
+
+
  #### - 필요한 기술
  - 이 과목에서 배울 것으로 기대되는 기술 : 게임 중 일시 정지
  - 수업 에 다루어 달라고 요청할 기술 :
