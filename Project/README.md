@@ -48,8 +48,9 @@
       a. 재시작 버튼 선택 시 : Play State 재시작
       b. 나가기 버튼 선택 시 : 게임 종료
       
-    
-<img src="https://postfiles.pstatic.net/MjAyMDA5MjVfMjA3/MDAxNjAxMDE5ODQzNDQ3.ADAoGMF3rplZVZVY8w6CQ8085AqxA70t9mVAm0uEQjwg.tll8WpYrfXWfWgX2kfsQ4Iyilmhm52hUHngIYZmQdTAg.PNG.hansik0806/Dier.png?type=w773" >
+
+#### - 전체 State 다이어 그램
+<img src="https://postfiles.pstatic.net/MjAyMDA5MjVfMjA3/MDAxNjAxMDE5ODQzNDQ3.ADAoGMF3rplZVZVY8w6CQ8085AqxA70t9mVAm0uEQjwg.tll8WpYrfXWfWgX2kfsQ4Iyilmhm52hUHngIYZmQdTAg.PNG.hansik0806/Dier.png?type=w773" width="50%" height="50%">
 
 
  ### # 3. 필요한 기술
