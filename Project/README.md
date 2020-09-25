@@ -52,7 +52,7 @@
 <img src="https://postfiles.pstatic.net/MjAyMDA5MjVfMjA3/MDAxNjAxMDE5ODQzNDQ3.ADAoGMF3rplZVZVY8w6CQ8085AqxA70t9mVAm0uEQjwg.tll8WpYrfXWfWgX2kfsQ4Iyilmhm52hUHngIYZmQdTAg.PNG.hansik0806/Dier.png?type=w773" >
 
 
- #### - 필요한 기술
+ ### # 3. 필요한 기술
  - 이 과목에서 배울 것으로 기대되는 기술 : 게임 중 일시 정지
  - 수업 에 다루어 달라고 요청할 기술 :
  Gameover State에서 필요한 부분인데 메뉴가 출력될 때 메뉴 화면 뒤에 출력되고 있는 Play State를 흐리게 혹은 색상을 조정해 흐리게 보이는 기술
