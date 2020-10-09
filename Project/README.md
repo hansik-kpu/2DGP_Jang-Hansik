@@ -4,7 +4,7 @@
 ### # 1. 게임의 소개
 
 
- - 제목 : Cross the Street
+ - 제목 : Cross the Road
  - Copy 게임 : 길건너 친구들
  
    <img src="https://t1.daumcdn.net/cfile/tistory/2249FE3454E3777401" width="200" height="200">
