@@ -82,10 +82,10 @@
 
 
 ### # 6. 출처
-길건너친구들 화면 : https://gamejay.net/650
-자동차 일러스트 : https://littledeep.com/car-illustration-free-download/
-트럭 일러스트 : https://littledeep.com/%ed%8a%b8%eb%9f%ad-%ec%9d%bc%eb%9f%ac%ec%8a%a4%ed%8a%b8-png-ai-%eb%ac%b4%eb%a3%8c-%eb%8b%a4%ec%9a%b4%eb%a1%9c%eb%93%9c/
-버스 일러스트 : https://www.pngwing.com/ko/free-png-basol
+ - 길건너친구들 화면 : https://gamejay.net/650
+ - 자동차 일러스트 : https://littledeep.com/car-illustration-free-download/
+ - 트럭 일러스트 : https://littledeep.com/%ed%8a%b8%eb%9f%ad-%ec%9d%bc%eb%9f%ac%ec%8a%a4%ed%8a%b8-png-ai-%eb%ac%b4%eb%a3%8c-%eb%8b%a4%ec%9a%b4%eb%a1%9c%eb%93%9c/
+ - 버스 일러스트 : https://www.pngwing.com/ko/free-png-basol
 
 
 ### # 7. 필요한 기술
